@@ -1,0 +1,38 @@
+{
+  "name": "adequatejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "list",
+    "discord",
+    "dbl",
+    "vcodes",
+    "api",
+    "bots",
+    "vote",
+    "check",
+    "vote",
+    "control",
+    "force",
+    "vote"
+  ],
+  "author": "npg",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wumpuspro/adequate.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Wumpuspro/adequate.js/issues"
+  },
+  "homepage": "https://github.com/Wumpuspro/adequate.js#readme",
+  "description": ""
+}
